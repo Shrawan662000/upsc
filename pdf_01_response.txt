@@ -1,0 +1,107 @@
+### Hoolock Gibbon
+Question Type: MCQ  
+Question: Which of the following statements is true regarding the Hoolock Gibbon?  
+Options:  
+A) It is the only ape found in India.  
+B) The Western Hoolock Gibbon is classified as Vulnerable by the IUCN.  
+C) The largest population is found in the Sundarbans.  
+D) It is listed in Schedule II of the Wildlife (Protection) Act, 1972.  
+Answer:  
+Correct answer: A  
+Explanation: The Hoolock Gibbon is indeed the only ape found in India, with its conservation status being Vulnerable for the Eastern Hoolock Gibbon and Endangered for the Western Hoolock Gibbon. It is listed in Schedule I of the Wildlife (Protection) Act, 1972, and the largest population is in Hollongapar Gibbon Sanctuary, Assam.
+
+### Colombo Process
+Question Type: MCQ  
+Question: What is the primary objective of the Colombo Process?  
+Options:  
+A) To promote trade between Asian countries.  
+B) To manage overseas employment and labor migration issues.  
+C) To regulate international tourism.  
+D) To establish a military alliance among Asian countries.  
+Answer:  
+Correct answer: B  
+Explanation: The Colombo Process is a regional consultative process aimed at managing overseas employment and addressing labor migration issues, as well as fostering ethical recruitment.
+
+### Koya Tribe
+Question Type: MSQ  
+Question: Which of the following statements are true about the Koya Tribe?  
+Options:  
+A) They predominantly inhabit Andhra Pradesh and Telangana.  
+B) They speak a Dravidian language related to Gondi and Telugu.  
+C) Their key festival includes Diwali.  
+D) They have a tradition of Mahua liquor.  
+Answer:  
+Correct answer: A, B, D  
+Explanation: The Koya Tribe is predominantly found in Andhra Pradesh, Telangana, Chhattisgarh, and Odisha, speaks Koyi (a Dravidian language), and has a tradition of Mahua liquor. Diwali is not one of their key festivals.
+
+### Controller General of Accounts (CGA)
+Question Type: MCQ  
+Question: What is the primary function of the Controller General of Accounts (CGA) in India?  
+Options:  
+A) To oversee the implementation of fiscal policies.  
+B) To serve as the principal accounting adviser to the Government of India.  
+C) To manage the Reserve Bank of India's accounts.  
+D) To regulate the stock market.  
+Answer:  
+Correct answer: B  
+Explanation: The CGA serves as the principal accounting adviser to the Government of India and is responsible for managing fiscal data and accounts of the Union Government.
+
+### Rabies
+Question Type: MCQ  
+Question: Which of the following statements about Rabies is correct?  
+Options:  
+A) It is primarily spread by cat bites.  
+B) It is a vaccine-preventable disease.  
+C) Rabies can be treated effectively after symptoms appear.  
+D) It is not considered a zoonotic disease.  
+Answer:  
+Correct answer: B  
+Explanation: Rabies is a viral, zoonotic disease that is vaccine-preventable, primarily spread by dog bites. Once symptoms appear, it is fatal, and there is no effective treatment.
+
+### Interim Bail
+Question Type: MCQ  
+Question: What is the main criterion for granting Interim Bail?  
+Options:  
+A) The applicant must have no prior criminal record.  
+B) There is no risk of absconding or tampering with evidence.  
+C) The applicant must be a first-time offender.  
+D) The case must be of a minor nature.  
+Answer:  
+Correct answer: B  
+Explanation: Interim Bail is granted as temporary relief pending regular or anticipatory bail, primarily based on the criteria that there is no risk of absconding or tampering with evidence.
+
+### Exit Polls
+Question Type: MCQ  
+Question: Under which section of the Representation of the People Act, 1951 are exit polls regulated?  
+Options:  
+A) Section 126  
+B) Section 126A  
+C) Section 127  
+D) Section 128  
+Answer:  
+Correct answer: B  
+Explanation: Exit polls are regulated under Section 126A of the Representation of the People Act, 1951, which prohibits the publication of results until voting concludes.
+
+### World No-Tobacco Day
+Question Type: MCQ  
+Question: What is the theme for World No-Tobacco Day in 2024?  
+Options:  
+A) "Tobacco: A Global Threat"  
+B) "Protecting Children from Tobacco Industry Interference"  
+C) "Say No to Tobacco"  
+D) "Tobacco-Free World"  
+Answer:  
+Correct answer: B  
+Explanation: The theme for World No-Tobacco Day in 2024 is "Protecting Children from Tobacco Industry Interference."
+
+### World Health Assembly
+Question Type: MCQ  
+Question: What was a key focus of the 77th session of the World Health Assembly in 2024?  
+Options:  
+A) Increasing the availability of vaccines.  
+B) Addressing climate change impacts on health.  
+C) Increasing organ transplantation availability.  
+D) Promoting mental health awareness.  
+Answer:  
+Correct answer: C  
+Explanation: The 77th session of the World Health Assembly focused on increasing organ transplantation availability, emphasizing ethical access and addressing trafficking in human organs.
