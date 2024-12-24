@@ -1,0 +1,732 @@
+
+
+
+----------------------------------------------------------------     PDF-01   -----------------------------------------------------------------------------------------------
+
+**Question 1: Multi-Statement Questions with Answer Codes**  
+"Which of the following statements are correct regarding the Hoolock Gibbon?"  
+
+1. The Eastern Hoolock Gibbon is classified as Endangered by the IUCN.  
+2. The largest population of Hoolock Gibbons is found in the Hollongapar Gibbon Sanctuary, Assam.  
+3. Both Eastern and Western Hoolock Gibbons are listed in Schedule I of the Wildlife (Protection) Act, 1972.  
+
+Select the answer using the code given below:  
+a) 1 and 2 only  
+b) 2 and 3 only  
+c) 1 and 3 only  
+d) 2 and 3 only  
+Answer: b) 2 and 3 only  
+Explanation: The Eastern Hoolock Gibbon is classified as Vulnerable, not Endangered. The other statements are correct.
+
+---
+
+**Question 2: Single Statement Objective Questions**  
+"Which one of the following statements is correct regarding the Colombo Process?"  
+
+a) It includes 10 Asian countries.  
+b) It focuses solely on labor migration issues.  
+c) India is the chair for the period 2024-2026.  
+d) It was established in 2010.  
+Answer: c) India is the chair for the period 2024-2026.  
+Explanation: India is indeed the chair of the Colombo Process for the specified period.
+
+---
+
+**Question 3: Statement Analysis Questions**  
+"Consider the following statements regarding the Koya Tribe:"  
+
+Statement-I: The Koya Tribe predominantly speaks a Dravidian language.  
+Statement-II: The Koya Tribe is primarily found in the northern states of India.  
+
+Which one of the following is correct in respect of the above statements?  
+
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I  
+c) Statement-I is correct but Statement-II is incorrect  
+d) Statement-I is incorrect but Statement-II is correct  
+Answer: c) Statement-I is correct but Statement-II is incorrect  
+Explanation: The Koya Tribe speaks a Dravidian language, but they are predominantly found in states like Andhra Pradesh, Telangana, Chhattisgarh, and Odisha, not primarily in the northern states.
+
+---
+
+**Question 4: Pair Matching Questions**  
+"Match List I (Roles) with List II (Functions of the Controller General of Accounts):"  
+
+List I	                                                                 List II  
+A. Principal Accounting Adviser to GoI	                                1. Prepares annual analysis of fiscal indicators  
+B. Manages fiscal data and accounts of Union Government	               2. Established in 1975  
+C. Established in 1975	                                                3. Oversees financial audits  
+D. Prepares annual analysis of fiscal indicators	                            4. Provides financial advice to the Ministry of Finance  
+
+Select the correct answer using the codes given below:  
+
+a) A-1, B-2, C-3, D-4  
+b) A-2, B-1, C-4, D-3  
+c) A-1, B-2, C-4, D-3  
+d) A-2, B-1, C-3, D-4  
+Answer: c) A-1, B-2, C-4, D-3  
+Explanation: The Controller General of Accounts serves as the Principal Accounting Adviser, manages fiscal data, was established in 1975, and prepares annual fiscal analyses.
+
+---
+
+**Question 5: Multi-Statement Questions with Answer Codes**  
+"Which of the following statements are correct regarding rabies?"  
+
+1. Rabies is a viral disease that can be prevented by vaccination.  
+2. It is primarily spread through bites from infected cats.  
+3. Jammu & Kashmir has declared rabies a notifiable disease under the Epidemic Diseases Act, 1897.  
+
+Select the answer using the code given below:  
+a) 1 and 2 only  
+b) 1 and 3 only  
+c) 2 and 3 only  
+d) 1, 2 and 3  
+Answer: b) 1 and 3 only  
+Explanation: Rabies is indeed a viral disease that can be prevented by vaccination, and Jammu & Kashmir has declared it a notifiable disease. However, it is primarily spread by dog bites, not cats.
+
+---
+
+**Question 6: Single Statement Objective Questions**  
+"Which one of the following statements is correct regarding interim bail?"  
+
+a) It is a permanent relief granted by the court.  
+b) It is granted only in cases of custodial interrogation.  
+c) It is temporary relief pending regular or anticipatory bail.  
+d) It is applicable only to non-bailable offenses.  
+Answer: c) It is temporary relief pending regular or anticipatory bail.  
+Explanation: Interim bail is indeed a temporary relief granted while awaiting a decision on regular or anticipatory bail.
+
+---
+
+**Question 7: Statement Analysis Questions**  
+"Consider the following statements regarding World No-Tobacco Day:"  
+
+Statement-I: World No-Tobacco Day is celebrated annually on May 31.  
+Statement-II: The theme for World No-Tobacco Day 2024 is "Protecting Children from Tobacco Industry Interference."  
+
+Which one of the following is correct in respect of the above statements?  
+
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I  
+c) Statement-I is correct but Statement-II is incorrect  
+d) Statement-I is incorrect but Statement-II is correct  
+Answer: a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
+Explanation: Both statements are correct; World No-Tobacco Day is celebrated on May 31, and the theme for 2024 is as stated.
+
+---
+
+**Question 8: Pair Matching Questions**  
+"Match List I (Event) with List II (Focus):"  
+
+List I	                                                                 List II  
+A. World Health Assembly 2024	                                        1. Protecting Children from Tobacco Industry Interference  
+B. World No-Tobacco Day 2024	                                        2. Increasing organ transplantation availability  
+C. World Health Assembly 2023	                                        3. Addressing trafficking in human organs  
+D. World No-Tobacco Day 2023	                                        4. Promoting healthy lifestyles  
+
+Select the correct answer using the codes given below:  
+
+a) A-2, B-1, C-3, D-4  
+b) A-1, B-2, C-3, D-4  
+c) A-2, B-3, C-1, D-4  
+d) A-2, B-1, C-4, D-3  
+Answer: a) A-2, B-1, C-3, D-4  
+Explanation: The World Health Assembly 2024 focuses on increasing organ transplantation availability, while World No-Tobacco Day 2024 has the theme of protecting children from tobacco industry interference
+
+
+
+
+
+----------------------------------------------------------------     PDF-02    -----------------------------------------------------------------------------------------------
+
+
+Question: Which of the following statements are correct regarding the newly discovered ant species Paraparatrechina neela?
+
+1. It was discovered in the Siang Valley of Arunachal Pradesh.
+2. It is the first species in the Paraparatrechina genus discovered in over a century.
+3. The body length of Paraparatrechina neela is greater than 2 mm.
+
+Select the answer using the code given below:
+a) 1 and 2 only  
+b) 2 and 3 only  
+c) 1 and 3 only  
+d) 1, 2 and 3  
+
+Answer: a) 1 and 2 only  
+Explanation: Statements 1 and 2 are correct as Paraparatrechina neela was discovered in Siang Valley and is the first species in its genus in 121 years. Statement 3 is incorrect as its body length is less than 2 mm.
+
+---
+
+Question: Which one of the following statements is correct regarding the 60th Meeting of Subsidiary Bodies (SB60)?
+
+a) It will be held in Bonn, Germany from June 3–13, 2024.  
+b) It focuses solely on climate adaptation strategies.  
+c) It is a meeting of the World Health Organization.  
+d) It is the first climate conference under UNFCCC.
+
+Answer: a) It will be held in Bonn, Germany from June 3–13, 2024.  
+Explanation: The 60th Meeting of Subsidiary Bodies (SB60) is indeed scheduled to take place in Bonn, Germany during the specified dates, focusing on various climate-related issues.
+
+---
+
+Question: Consider the following statements regarding Pampa Sarovar:
+
+Statement-I: Pampa Sarovar is one of the five sacred lakes in Hindu mythology.
+Statement-II: It is located near the Tungabhadra River in Karnataka.
+
+Which one of the following is correct in respect of the above statements?
+
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I  
+c) Statement-I is correct but Statement-II is incorrect  
+d) Statement-I is incorrect but Statement-II is correct  
+
+Answer: a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
+Explanation: Both statements are correct; Pampa Sarovar is indeed one of the five sacred lakes and is located near the Tungabhadra River.
+
+---
+
+Question: Match List I (Defence Equipment) with List II (Features):
+
+List I                                                                 List II  
+A. INS Shivalik                                                   1. Infrared seeker and thrust-vector control  
+B. Iris-T Missile                                                2. First stealth multi-role frigate of India  
+C. BrahMos Missile                                           3. Participates in exercises like JIMEX  
+D. Tungabhadra Dam                                        4. Major dam on the Tungabhadra River  
+
+Select the correct answer using the codes given below:
+
+a) A-2, B-1, C-3, D-4  
+b) A-3, B-2, C-1, D-4  
+c) A-1, B-4, C-2, D-3  
+d) A-4, B-3, C-2, D-1  
+
+Answer: a) A-2, B-1, C-3, D-4  
+Explanation: INS Shivalik is India's first stealth multi-role frigate, Iris-T Missile features an infrared seeker and thrust-vector control, BrahMos participates in exercises like JIMEX, and Tungabhadra Dam is a major dam on the Tungabhadra River.
+
+---
+
+Question: Which of the following statements are correct regarding the Chang’e-6 Mission?
+
+1. It is China's first uncrewed mission to the far side of the Moon.
+2. The mission aims to collect and return samples from the Moon.
+3. It includes components such as an orbiter, lander, ascender, and returner.
+
+Select the answer using the code given below:
+a) 1 and 2 only  
+b) 2 and 3 only  
+c) 1, 2 and 3  
+d) 1 and 3 only  
+
+Answer: c) 1, 2 and 3  
+Explanation: All statements are correct; Chang’e-6 is indeed China's first uncrewed mission to the far side of the Moon, aiming to collect samples, and it includes the specified components.
+
+---
+
+Question: Which one of the following statements is correct regarding the Two-State Solution?
+
+a) It proposes a single state for both Israelis and Palestinians.  
+b) It originated from the UN's 1947 partition plan.  
+c) It was first proposed after the 1973 war.  
+d) It has been universally accepted by all parties involved.
+
+Answer: b) It originated from the UN's 1947 partition plan.  
+Explanation: The Two-State Solution is indeed based on the UN's 1947 partition plan, which proposed separate states for Israelis and Palestinians.
+
+
+----------------------------------------------------------------     PDF-03    -----------------------------------------------------------------------------------------------
+
+**Question 1: Multi-Statement Question with Answer Codes**  
+"Which of the following statements are correct about the Hunga Tonga–Hunga Haʻapai (HTHH) Volcano?"
+
+1. It is a submarine stratovolcano located in the Tonga–Kermadec arc.
+2. The volcano is known for its frequent eruptions and explosive activity due to basalt lava.
+3. It is situated 65 km south of Tongatapu and is part of the Pacific Ring of Fire.
+
+Select the answer using the code given below:  
+a) 1 and 2 only  
+b) 2 and 3 only  
+c) 1 and 3 only  
+d) 1, 2 and 3  
+
+**Answer:** c) 1 and 3 only  
+**Explanation:** Statement 1 is correct as it describes the location and type of the volcano. Statement 2 is incorrect because the eruptions are due to viscous andesite and dacite lava, not basalt. Statement 3 is correct regarding its location.
+
+---
+
+**Question 2: Single Statement Objective Question**  
+"Which one of the following statements is correct regarding the Spot Bellied Eagle Owl?"
+
+a) It is classified as Critically Endangered under the IUCN Red List.  
+b) It is an apex predator found in temperate forests of Europe.  
+c) It is nocturnal and listed under Schedule IV of the Wildlife (Protection) Act, 1972.  
+d) Its habitat is restricted to the Himalayan region only.  
+
+**Answer:** c) It is nocturnal and listed under Schedule IV of the Wildlife (Protection) Act, 1972.  
+**Explanation:** The Spot Bellied Eagle Owl is indeed nocturnal and is listed under Schedule IV of the Wildlife (Protection) Act, 1972, while its IUCN status is Least Concern.
+
+---
+
+**Question 3: Statement Analysis Question**  
+"Consider the following statements regarding the Sunkoshi River:"
+
+Statement-I: The Sunkoshi River is a tributary of the Koshi River and originates from the Zhangzangbo Glacier in Tibet.  
+Statement-II: It is known as the 'Sorrow of Bihar' due to its contribution to flooding in the region.
+
+Which one of the following is correct in respect of the above statements?  
+
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I  
+c) Statement-I is correct but Statement-II is incorrect  
+d) Statement-I is incorrect but Statement-II is correct  
+
+**Answer:** a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
+**Explanation:** Both statements accurately describe the Sunkoshi River and its significance.
+
+---
+
+### Science & Technology
+
+**Question 4: Multi-Statement Question with Answer Codes**  
+"Which of the following statements are correct regarding Virus-like Particles (VLPs)?"
+
+1. VLPs are infectious agents that can replicate within host cells.
+2. They are used in the development of vaccines for diseases such as HPV and Hepatitis B.
+3. VLPs contain genetic material similar to that of actual viruses.
+
+Select the answer using the code given below:  
+a) 1 and 2 only  
+b) 2 and 3 only  
+c) 1 and 3 only  
+d) 2 only  
+
+**Answer:** d) 2 only  
+**Explanation:** Statement 2 is correct as VLPs are used in vaccines, while statements 1 and 3 are incorrect because VLPs are non-infectious and lack genetic material.
+
+---
+
+**Question 5: Single Statement Objective Question**  
+"Which one of the following statements is correct regarding the Nipah Virus?"
+
+a) It is primarily transmitted through water contamination.  
+b) The first outbreak occurred in India in 2001.  
+c) It can cause respiratory illness and encephalitis in humans.  
+d) It is exclusively transmitted from human to human.  
+
+**Answer:** c) It can cause respiratory illness and encephalitis in humans.  
+**Explanation:** The Nipah Virus is known to cause respiratory illness and encephalitis, and its first outbreak was in Malaysia and Singapore, not India.
+
+---
+
+### Cultural Heritage
+
+**Question 6: Pair Matching Question**  
+"Match List I (Ikat Design) with List II (Region and GI Tag):"
+
+List I	                                                                 List II  
+A. Patan Patola	                                                1. Odisha  
+B. Pochampally Ikat	                                        2. Gujarat  
+C. Sambalpuri Ikat	                                            3. Telangana  
+D. Double Ikat	                                                4. India  
+
+Select the correct answer using the codes given below:  
+
+a) A-2, B-3, C-1, D-4  
+b) A-1, B-2, C-3, D-4  
+c) A-3, B-2, C-1, D-4  
+d) A-2, B-1, C-3, D-4  
+
+**Answer:** a) A-2, B-3, C-1, D-4  
+**Explanation:** Patan Patola is from Gujarat, Pochampally Ikat is from Telangana, Sambalpuri Ikat is from Odisha, and Double Ikat is a technique used in various regions of India.
+
+---
+
+### Current Affairs
+
+**Question 7: Multi-Statement Question with Answer Codes**  
+"Which of the following statements are correct regarding CITES (Convention on International Trade in Endangered Species)?"
+
+1. India has been a member of CITES since 1976.
+2. Appendix I of CITES regulates trade to prevent over-exploitation of species.
+3. Appendix III protects species that are threatened by international trade.
+
+Select the answer using the code given below:  
+a) 1 and 2 only  
+b) 1 and 3 only  
+c) 2 and 3 only  
+d) 1, 2 and 3  
+
+**Answer:** b) 1 and 3 only  
+**Explanation:** Statement 1 is correct, and Statement 3 is correct regarding Appendix III. However, Statement 2 is incorrect as Appendix I prohibits trade of critically endangered species, not regulates trade.
+
+---
+
+**Question 8: Single Statement Objective Question**  
+"Which one of the following statements is correct regarding the KAZA Summit 2024?"
+
+a) It aims to promote the lifting of the ivory trade ban.  
+b) It highlighted a $1 billion stockpile of ivory.  
+c) It is focused on the conservation of marine biodiversity.  
+d) It is scheduled to take place in India.  
+
+**Answer:** b) It highlighted a $1 billion stockpile of ivory.  
+**Explanation:** The KAZA Summit 2024 discussed the ivory trade ban and highlighted the significant stockpile of ivory.
+
+---
+
+### Indian Polity
+
+**Question 9: Multi-Statement Question with Answer Codes**  
+"Which of the following statements are correct regarding Article 142 of the Indian Constitution?"
+
+1. It grants the Supreme Court the power to issue directions for the enforcement of fundamental rights.
+2. It allows the Supreme Court to ensure 'complete justice' in any matter before it.
+3. It is applicable only in cases of constitutional matters.
+
+Select the answer using the code given below:  
+a) 1 and 2 only  
+b) 2 and 3 only  
+c) 1 and 3 only  
+d) 1, 2 and 3  
+
+**Answer:** a) 1 and 2 only  
+**Explanation:** Article 142 provides the Supreme Court with extraordinary powers to ensure complete justice, but it is not limited to constitutional matters.
+
+---
+
+**Question 10: Single Statement Objective Question**  
+"Which one of the following statements is correct regarding the Doctrine of Merger?"
+
+a) It applies only to civil cases in the Indian judiciary.  
+b) It ensures that lower court orders are nullified upon the higher court's decision.  
+c) It is a principle that allows conflicting decrees from different courts.  
+d) It is applicable only in criminal cases.  
+
+**Answer:** b) It ensures that lower court orders are nullified upon the higher court's decision.  
+**Explanation:** The Doctrine of Merger states that when an appeal is made, the order of the lower court merges into the order of the higher court, nullifying the former.
+
+
+
+
+----------------------------------------------------------------     PDF-04    -----------------------------------------------------------------------------------------------
+
+1. **Question on Environmental Policy:**
+   Which of the following statements regarding the Paris Agreement is/are correct?
+   1. It aims to limit global warming to well below 2 degrees Celsius above pre-industrial levels.
+   2. The agreement is legally binding for all countries.
+   3. It requires developed countries to provide financial assistance to developing countries for climate change mitigation.
+   
+   A) 1 only  
+   B) 1 and 3 only  
+   C) 2 and 3 only  
+   D) 1, 2, and 3  
+
+   **Answer:** B) 1 and 3 only
+
+2. **Question on Health Policy:**
+   The National Health Mission (NHM) is aimed at:
+   1. Providing affordable healthcare to the rural population.
+   2. Strengthening healthcare infrastructure in urban areas.
+   3. Enhancing healthcare delivery through community participation.
+   
+   Which of the statements given above is/are correct?
+   
+   A) 1 only  
+   B) 1 and 3 only  
+   C) 2 and 3 only  
+   D) 1, 2, and 3  
+
+   **Answer:** B) 1 and 3 only
+
+3. **Question on Science and Technology in Governance:**
+   Which of the following initiatives is/are aimed at promoting digital governance in India?
+   1. Digital India Programme
+   2. e-Governance Plan
+   3. National Digital Communications Policy
+   
+   A) 1 only  
+   B) 1 and 2 only  
+   C) 1, 2, and 3  
+   D) 2 and 3 only  
+
+   **Answer:** C) 1, 2, and 3
+
+4. **Question on Biotechnology and Ethics:**
+   Which of the following statements is/are correct regarding the use of genetically modified organisms (GMOs) in agriculture?
+   1. GMOs can potentially increase crop yield and resistance to pests.
+   2. There are no ethical concerns associated with the use of GMOs.
+   3. The regulation of GMOs varies significantly between countries.
+   
+   A) 1 only  
+   B) 1 and 3 only  
+   C) 2 and 3 only  
+   D) 1, 2, and 3  
+
+   **Answer:** B) 1 and 3 only
+
+5. **Question on Space Policy:**
+   Which of the following statements regarding India's space program is/are correct?
+   1. The Indian Space Research Organisation (ISRO) is responsible for the development of satellite technology.
+   2. India has launched its own astronauts into space.
+   3. The first Indian satellite was launched in 1975.
+   
+   A) 1 and 2 only  
+   B) 1 and 3 only  
+   C) 2 and 3 only  
+   D) 1, 2, and 3  
+
+   **Answer:** B) 1 and 3 only
+
+These questions reflect the intersection of science and politics, particularly in the context of policies, governance, and ethical considerations.
+
+
+
+----------------------------------------------------------------     PDF-05    -----------------------------------------------------------------------------------------------
+
+**Question 1: Multi-Statement Question with Answer Codes**  
+"Which of the following statements are correct about T Coronae Borealis?"  
+
+1. It is a binary system consisting of a white dwarf and a red giant.  
+2. T Coronae Borealis is located in the constellation Orion.  
+3. It is predicted to be visible between now and September 2024, shining as brightly as Polaris.  
+
+Select the answer using the code given below:  
+a) 1 and 2 only  
+b) 2 and 3 only  
+c) 1 and 3 only  
+d) 1, 2 and 3  
+
+**Answer:** c) 1 and 3 only  
+**Explanation:** Statement 1 is correct as it describes the binary nature of T Coronae Borealis. Statement 2 is incorrect; it is located in the constellation Corona Borealis, not Orion. Statement 3 is correct regarding its predicted visibility.
+
+---
+
+**Question 2: Single Statement Objective Question**  
+"Which one of the following statements is correct regarding Tmesipteris oblanceolata?"  
+
+a) It has the smallest known genome among plant species.  
+b) It primarily grows in aquatic environments.  
+c) It is a rare fork fern species with the largest known genome.  
+d) It evolved 50 million years ago.  
+
+**Answer:** c) It is a rare fork fern species with the largest known genome.  
+**Explanation:** Tmesipteris oblanceolata is indeed a rare fork fern species with the largest known genome at 160.45 billion base pairs.
+
+---
+
+**Question 3: Statement Analysis Question**  
+"Consider the following statements regarding Neo Protein:"  
+
+Statement-I: Neo Protein is found in Klebsiella pneumoniae and is essential for bacterial defense against bacteriophages.  
+Statement-II: Neo Protein induces bacterial dormancy to enhance viral spread.  
+
+Which one of the following is correct in respect of the above statements?  
+
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I  
+c) Statement-I is correct but Statement-II is incorrect  
+d) Statement-I is incorrect but Statement-II is correct  
+
+**Answer:** c) Statement-I is correct but Statement-II is incorrect  
+**Explanation:** Statement-I is correct as Neo Protein is essential for defense against bacteriophages. Statement-II is incorrect; it induces dormancy to protect against viral spread, not enhance it.
+
+---
+
+**Question 4: Pair Matching Question**  
+"Match List I (Organism) with List II (Characteristic):"  
+
+List I	                                                                 List II  
+A. Blaze Star (T Coronae Borealis)	                                1. Largest known genome  
+B. Tmesipteris oblanceolata	                                                2. Binary system with thermonuclear explosions  
+C. Neo Protein	                                                            3. Induces bacterial dormancy  
+D. Parengyodontium album	                                            4. Capable of breaking down polyethylene  
+
+Select the correct answer using the codes given below:  
+
+a) A-2, B-1, C-3, D-4  
+b) A-1, B-2, C-4, D-3  
+c) A-3, B-4, C-1, D-2  
+d) A-4, B-3, C-2, D-1  
+
+**Answer:** a) A-2, B-1, C-3, D-4  
+**Explanation:** Blaze Star is a binary system with thermonuclear explosions, Tmesipteris oblanceolata has the largest known genome, Neo Protein induces bacterial dormancy, and Parengyodontium album can break down polyethylene.
+
+---
+
+### Environment & Geography
+
+**Question 5: Multi-Statement Question with Answer Codes**  
+"Which of the following statements are correct about Mount Kanlaon?"  
+
+1. It is an active stratovolcano located on Negros Island, Philippines.  
+2. Mount Kanlaon has a height of 3,000 meters.  
+3. It is part of the Ring of Fire and typically experiences phreatic explosions.  
+
+Select the answer using the code given below:  
+a) 1 and 2 only  
+b) 2 and 3 only  
+c) 1 and 3 only  
+d) 1, 2 and 3  
+
+**Answer:** c) 1 and 3 only  
+**Explanation:** Statement 1 is correct as it describes the location and type of Mount Kanlaon. Statement 2 is incorrect; it has an elevation of 2,435 meters, not 3,000 meters. Statement 3 is correct regarding its eruptions.
+
+---
+
+**Question 6: Single Statement Objective Question**  
+"Which one of the following statements is correct regarding the Rhine River?"  
+
+a) It flows entirely within Germany.  
+b) It is the longest river in Europe.  
+c) It is Europe's most important commercial waterway.  
+d) It flows into the Mediterranean Sea.  
+
+**Answer:** c) It is Europe's most important commercial waterway.  
+**Explanation:** The Rhine River is indeed Europe's most important commercial waterway, supporting a significant portion of the world's chemical industries.
+
+---
+
+**Question 7: Statement Analysis Question**  
+"Consider the following statements regarding Dnipro City:"  
+
+Statement-I: Dnipro City is located along the Dnieper River in Ukraine.  
+Statement-II: It is primarily known for its agricultural production.  
+
+Which one of the following is correct in respect of the above statements?  
+
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I  
+c) Statement-I is correct but Statement-II is incorrect  
+d) Statement-I is incorrect but Statement-II is correct  
+
+**Answer:** c) Statement-I is correct but Statement-II is incorrect  
+**Explanation:** Statement-I is correct as Dnipro City is located along the Dnieper River. Statement-II is incorrect; it is a major industrial hub, not primarily known for agricultural production.
+
+---
+
+### Polity & Governance
+
+**Question 8: Multi-Statement Question with Answer Codes**  
+"Which of the following statements are correct regarding NOTA (None of the Above)?"  
+
+1. NOTA was first used in the 2013 Assembly Elections in India.  
+2. Votes cast under NOTA are counted as valid votes.  
+3. The Supreme Court is considering guidelines to nullify elections if NOTA wins a majority.  
+
+Select the answer using the code given below:  
+a) 1 and 2 only  
+b) 2 and 3 only  
+c) 1 and 3 only  
+d) 1, 2 and 3  
+
+**Answer:** c) 1 and 3 only  
+**Explanation:** Statement 1 is correct as NOTA was indeed first used in the 2013 Assembly Elections. Statement 2 is incorrect; votes under NOTA are counted as invalid votes. Statement 3 is correct regarding the Supreme Court's consideration.
+
+---
+
+**Question 9: Single Statement Objective Question**  
+"Which one of the following statements is correct regarding the function of NOTA?"  
+
+a) It allows voters to select a candidate of their choice.  
+b) It allows voters to reject all candidates on the ballot.  
+c) It is only applicable in Lok Sabha elections.  
+d) It is a valid vote that contributes to the election outcome.  
+
+**Answer:** b) It allows voters to reject all candidates on the ballot.  
+**Explanation:** NOTA allows voters to express their disapproval of all candidates, effectively rejecting them.
+
+---
+
+**Question 10: Statement Analysis Question**  
+"Consider the following statements regarding the Supreme Court's directive on NOTA:"  
+
+Statement-I: The Supreme Court directed the introduction of NOTA to enhance voter choice.  
+Statement-II: The introduction of NOTA has no impact on the validity of election results.  
+
+Which one of the following is correct in respect of the above statements?  
+
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I  
+c) Statement-I is correct but Statement-II is incorrect  
+d) Statement-I is incorrect but Statement-II is correct  
+
+**Answer:** c) Statement-I is correct but Statement-II is incorrect  
+**Explanation:** Statement-I is correct as the Supreme Court did direct the introduction of NOTA to enhance voter choice. Statement-II is incorrect; NOTA votes are counted as invalid, which can impact election results.
+
+
+----------------------------------------------------------------     PDF-06    -----------------------------------------------------------------------------------------------
+
+Question: Which of the following statements are correct about the Tele-MANAS initiative launched by the Ministry of Health and Family Welfare?
+
+1. It provides free tele-mental health services nationwide.
+2. The initiative operates in only one language.
+3. It has a two-tier structure consisting of state-level and district-level services.
+4. A toll-free helpline is available for accessing the services.
+
+Select the answer using the code given below:
+a) 1 and 2 only  
+b) 1, 3 and 4 only  
+c) 2, 3 and 4 only  
+d) 1, 2, 3 and 4  
+
+Answer: b) 1, 3 and 4 only  
+Explanation: Tele-MANAS provides free tele-mental health services nationwide, has a two-tier structure, and offers a toll-free helpline. However, it operates in 20 languages, not just one.
+
+---
+
+### Science & Technology
+
+Question: Which of the following statements are correct regarding the newly discovered species and software mentioned in the content?
+
+1. Thismia malayana is classified as Vulnerable by IUCN.
+2. PraVaHa Software is developed for Computational Fluid Dynamics analysis in agriculture.
+3. Musankwa sanyatiensis is a dinosaur species from the Late Triassic period.
+4. PraVaHa Software is used in Gaganyan for launch vehicle aerodynamic simulations.
+
+Select the answer using the code given below:
+a) 1 and 2 only  
+b) 1 and 3 only  
+c) 2 and 4 only  
+d) 1, 3 and 4 only  
+
+Answer: d) 1, 3 and 4 only  
+Explanation: Thismia malayana is indeed classified as Vulnerable, Musankwa sanyatiensis is a dinosaur from the Late Triassic, and PraVaHa Software is used for aerodynamic simulations in Gaganyan. However, it is not developed for agriculture.
+
+---
+
+### Environment & Ecology
+
+Question: Consider the following statements regarding the UNESCO State of Ocean Report, 2024:
+
+Statement-I: The report indicates significant ocean warming and rising sea levels.
+Statement-II: The report aligns with the UN Decade of Ocean Science (2021–2030) and highlights issues like deoxygenation and acidification.
+
+Which one of the following is correct in respect of the above statements?
+
+a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
+b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I  
+c) Statement-I is correct but Statement-II is incorrect  
+d) Statement-I is incorrect but Statement-II is correct  
+
+Answer: a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I  
+Explanation: Both statements accurately reflect the findings of the UNESCO State of Ocean Report, which discusses ocean warming, rising sea levels, and aligns with the UN Decade of Ocean Science.
+
+---
+
+### Indian Geography
+
+Question: Which of the following statements are correct regarding the Maharani Temple in Gulmarg?
+
+1. It was built in 1915 by Mohini Bai Sisodia.
+2. The temple is dedicated to Lord Vishnu and Goddess Lakshmi.
+3. It showcases Indian-Persian architectural style.
+4. The temple was restored by the Indian Army in 2021.
+
+Select the answer using the code given below:
+a) 1 and 2 only  
+b) 1 and 3 only  
+c) 2, 3 and 4 only  
+d) 1, 3 and 4 only  
+
+Answer: d) 1, 3 and 4 only  
+Explanation: The Maharani Temple was indeed built in 1915 by Mohini Bai Sisodia, is dedicated to Lord Shiva and Parvati (not Vishnu and Lakshmi), showcases Indian-Persian architecture, and was restored by the Indian Army in 2021.
